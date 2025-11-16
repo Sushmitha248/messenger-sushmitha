@@ -16,7 +16,6 @@ header {
   padding: 15px;
 }
 
-/* CHAT MESSAGES */
 .chat-box {
   height: 65vh;
   overflow-y: auto;
